@@ -1,6 +1,0 @@
-Raport General al Stocului
-=============================
-Număr Total de Produse: 17
-Valoare Totală a Stocului: 53.7
-Produse Sub Limita Minimă de Stoc:
-Produs: Mini Tarte, Cantitate Disponibilă: 0
