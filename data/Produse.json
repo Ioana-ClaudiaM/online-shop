@@ -1,0 +1,189 @@
+[
+    {
+        "dataAdaugarii": "2024-01-01",
+        "dataExpirare": "2024-02-01",
+        "pret": 3.5,
+        "descriere": "Croissant cu unt",
+        "rating": 5.5,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 100,
+        "nume": "Croissant",
+        "nrRatinguri": 3
+    },
+    {
+        "dataAdaugarii": "2024-01-05",
+        "dataExpirare": "2024-01-20",
+        "pret": 2,
+        "descriere": "Pâine albă",
+        "rating": 6,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 149,
+        "nume": "Pâine Albă",
+        "nrRatinguri": 3
+    },
+    {
+        "dataAdaugarii": "2024-01-10",
+        "dataExpirare": "2024-01-25",
+        "pret": 1.5,
+        "descriere": "Brioșă vanilie",
+        "rating": 5,
+        "numarCumparari": 0,
+        "cantitateDisponibila": 200,
+        "nume": "Brioșă Vanilie",
+        "nrRatinguri": 1
+    },
+    {
+        "dataAdaugarii": "2024-01-12",
+        "dataExpirare": "2024-01-30",
+        "pret": 2.5,
+        "descriere": "Eclair cu ciocolată",
+        "rating": 5,
+        "numarCumparari": 0,
+        "cantitateDisponibila": 75,
+        "nume": "Eclair",
+        "nrRatinguri": 1
+    },
+    {
+        "dataAdaugarii": "2024-01-15",
+        "dataExpirare": "2024-02-05",
+        "pret": 4,
+        "descriere": "Tartă de fructe",
+        "rating": 0,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 60,
+        "nume": "Tartă",
+        "nrRatinguri": 0
+    },
+    {
+        "dataAdaugarii": "2024-01-18",
+        "dataExpirare": "2024-02-10",
+        "pret": 3,
+        "descriere": "Cinnamon Roll",
+        "rating": 2,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 80,
+        "nume": "Cinnamon Roll",
+        "nrRatinguri": 2
+    },
+    {
+        "dataAdaugarii": "2024-01-20",
+        "dataExpirare": "2024-02-15",
+        "pret": 5,
+        "descriere": "Tort de ciocolată",
+        "rating": 0,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 29,
+        "nume": "Tort Ciocolată",
+        "nrRatinguri": 0
+    },
+    {
+        "dataAdaugarii": "2024-01-22",
+        "dataExpirare": "2024-01-28",
+        "pret": 2.2,
+        "descriere": "Pâine integrală",
+        "rating": 2,
+        "numarCumparari": 2,
+        "cantitateDisponibila": 119,
+        "nume": "Pâine Integrală",
+        "nrRatinguri": 2
+    },
+    {
+        "dataAdaugarii": "2024-01-25",
+        "dataExpirare": "2024-02-20",
+        "pret": 3.3,
+        "descriere": "Biscuiti cu ciocolată",
+        "rating": 0,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 90,
+        "nume": "Biscuiti",
+        "nrRatinguri": 0
+    },
+    {
+        "dataAdaugarii": "2024-01-28",
+        "dataExpirare": "2024-02-18",
+        "pret": 4.5,
+        "descriere": "Tartă de ciocolată",
+        "rating": 0,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 40,
+        "nume": "Tartă Ciocolată",
+        "nrRatinguri": 0
+    },
+    {
+        "dataAdaugarii": "2024-11-07",
+        "dataExpirare": "2024-11-18",
+        "pret": 1.75,
+        "descriere": "Pâine de secară",
+        "rating": 0,
+        "numarCumparari": 0,
+        "cantitateDisponibila": 110,
+        "nume": "Pâine Secară",
+        "nrRatinguri": 0
+    },
+    {
+        "dataAdaugarii": "2024-02-10",
+        "dataExpirare": "2024-02-28",
+        "pret": 2.8,
+        "descriere": "Plăcintă cu mere",
+        "rating": 0,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 49,
+        "nume": "Plăcintă Mere",
+        "nrRatinguri": 0
+    },
+    {
+        "dataAdaugarii": "2024-02-12",
+        "dataExpirare": "2024-03-05",
+        "pret": 5.5,
+        "descriere": "Tort cu fructe",
+        "rating": 0,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 24,
+        "nume": "Tort Fructe",
+        "nrRatinguri": 0
+    },
+    {
+        "dataAdaugarii": "2024-02-15",
+        "dataExpirare": "2024-03-01",
+        "pret": 2.1,
+        "descriere": "Pâine cu cereale",
+        "rating": 3,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 99,
+        "nume": "Pâine Cereale",
+        "nrRatinguri": 1
+    },
+    {
+        "dataAdaugarii": "2024-02-20",
+        "dataExpirare": "2024-03-15",
+        "pret": 3.25,
+        "descriere": "Biscuiti cu ovăz",
+        "rating": 0,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 89,
+        "nume": "Biscuiti Ovăz",
+        "nrRatinguri": 0
+    },
+    {
+        "dataAdaugarii": "2024-02-22",
+        "dataExpirare": "2024-03-10",
+        "pret": 4.3,
+        "descriere": "Crumble de mere",
+        "rating": 0,
+        "numarCumparari": 2,
+        "cantitateDisponibila": 39,
+        "nume": "Crumble Mere",
+        "nrRatinguri": 0
+    },
+    {
+        "dataAdaugarii": "2024-02-25",
+        "dataExpirare": "2024-03-20",
+        "pret": 2.5,
+        "descriere": "Mini tarte cu fructe",
+        "rating": 2.3333333333333335,
+        "numarCumparari": 1,
+        "cantitateDisponibila": 0,
+        "nume": "Mini Tarte",
+        "nrRatinguri": 9
+    }
+]
